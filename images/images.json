@@ -1,48 +1,15 @@
 {
     "images": [
-        {
-            "title": "mili1",
-            "file": "mili1.JPG"
-        },
-        {
-            "title": "mili2",
-            "file": "mili2.JPG"
-        },
-        {
-            "title": "mili3",
-            "file": "mili3.JPG"
-        },
-        {
-            "title": "mili4",
-            "file": "mili4.JPG"
-        },
-        {
-            "title": "mili5",
-            "file": "mili5.JPG"
-        },
-        {
-            "title": "mili6",
-            "file": "mili6.JPG"
-        },
-        {
-            "title": "mili7",
-            "file": "mili7.JPG"
-        },
-        {
-            "title": "mili8",
-            "file": "mili8.JPG"
-        },
-        {
-            "title": "mili9",
-            "file": "mili9.jpg"
-        },
-        {
-            "title": "mili10",
-            "file": "mili10.JPG"
-        },
-        {
-            "title": "mili11",
-            "file": "mili11.JPG"
-        }
+        {"title": "mili1", "file": "mili1.JPG"},
+        {"title": "mili2", "file": "mili2.JPG"},
+        {"title": "mili3", "file": "mili3.JPG"},
+        {"title": "mili4", "file": "mili4.JPG"},
+        {"title": "mili5", "file": "mili5.JPG"},
+        {"title": "mili6", "file": "mili6.JPG"},
+        {"title": "mili7", "file": "mili7.JPG"},
+        {"title": "mili8", "file": "mili8.JPG"},
+        {"title": "mili9", "file": "mili9.jpg"},
+        {"title": "mili10", "file": "mili10.JPG"},
+        {"title": "mili11", "file": "mili11.JPG"}
     ]
 }
